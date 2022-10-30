@@ -17,7 +17,7 @@ global.alivemsg = `📤I am alive now😇
 
 👑🔊 *My Bot Group Link 👇* 
 
-https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj ` //Costomize Alive Message (type your message in `` )
+https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
