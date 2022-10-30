@@ -10,9 +10,14 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
-
+vv
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉 
+💫 𝘿𝙅 𝙐𝙙𝙖𝙧𝙖 𝙍𝙚𝙢𝙞𝙭 (𝙊𝙒𝙉𝙀𝙍 :- 𝙏𝙝𝙚𝙢𝙞𝙮𝙖 𝙐𝙙𝙖𝙧𝙖)
+
+👑🔊 *My Bot Group Link 👇* 
+
+https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj ` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +34,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['wa.me/94769880718'] // owner number
+global.ownername = "𝘿𝙅 𝙐𝙙𝙖𝙧𝙖 𝙍𝙚𝙢𝙞𝙭 (𝙊𝙒𝙉𝙀𝙍 :- 𝙏𝙝𝙚𝙢𝙞𝙮𝙖 𝙐𝙙𝙖𝙧𝙖)" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
